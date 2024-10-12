@@ -1,0 +1,452 @@
+[
+  {
+      "id": 1,
+      "title": "Almonds - Raw Organic",
+      "price": 12.99,
+      "description": "Organic raw almonds, perfect for snacking or adding to recipes.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/153711056/photo/almonds.jpg?s=612x612&w=0&k=20&c=Tw_DRI4aBDp64AbK1PTQ6o_GGRnhi2IcrUoMwyfD6uQ=",
+      "rating": {"rate": 4.6, "count": 230}
+  },
+  {
+      "id": 2,
+      "title": "Pistachios - Salted & Roasted",
+      "price": 14.99,
+      "description": "Delicious salted and roasted pistachios with a rich, nutty flavor.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/894006626/photo/pistachios.webp?a=1&b=1&s=612x612&w=0&k=20&c=Y8r7RuQM-QXQXkY2bBtn2zLlzeA_VYb20xbDXhz8q9o=",
+      "rating": {"rate": 4.8, "count": 150}
+  },
+  {
+      "id": 3,
+      "title": "Cashews - Whole Raw",
+      "price": 16.49,
+      "description": "Raw whole cashews, great for snacking or cooking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/153730788/photo/cashew-nuts.webp?a=1&b=1&s=612x612&w=0&k=20&c=UxO1QSctRTjmy09yjebYCPaoCLZ1ebujncmQHew7zag=",
+      "rating": {"rate": 4.7, "count": 190}
+  },
+  {
+      "id": 4,
+      "title": "Walnuts - Halves and Pieces",
+      "price": 11.95,
+      "description": "Fresh walnut halves and pieces, perfect for baking and salads.",
+      "category": "dry fruits",
+      "image": "https://t3.ftcdn.net/jpg/00/54/17/34/360_F_54173432_fQNz2UgUsSktoUbDMLDxFsMM1Fl7Gk9l.jpg",
+      "rating": {"rate": 4.4, "count": 210}
+  },
+  {
+      "id": 5,
+      "title": "Raisins - Black Seedless",
+      "price": 5.99,
+      "description": "Sweet and juicy black seedless raisins, great for snacking and baking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/171298980/photo/raisins.webp?a=1&b=1&s=612x612&w=0&k=20&c=Vx7xoDeRlM-XrKsRRvicu2jVEQ1lwLZCorZHuKC--pY=",
+      "rating": {"rate": 4.3, "count": 175}
+  },
+  {
+      "id": 6,
+      "title": "Dried Apricots - Organic",
+      "price": 9.49,
+      "description": "Organic dried apricots with a sweet and tangy flavor.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/526245407/photo/heap-of-dried-apricots.webp?b=1&s=612x612&w=0&k=20&c=nwnU9HU0qL5LfKBluWoCBy7bXSXDTUf0rvJ1yShqd2I=",
+      "rating": {"rate": 4.5, "count": 130}
+  },
+  {
+      "id": 7,
+      "title": "Dried Figs - Turkish",
+      "price": 7.99,
+      "description": "Sweet Turkish dried figs, perfect for snacking or adding to recipes.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/photos/dried-figs-picture-id523599537?b=1&k=20&m=523599537&s=170667a&w=0&h=MPm4G0Hl2fqA6CA00yqpT0qu7X7RV4Aeu6dpRc47fP0=",
+      "rating": {"rate": 4.2, "count": 120}
+  },
+  {
+      "id": 8,
+      "title": "Dried Cranberries - Sweetened",
+      "price": 8.99,
+      "description": "Sweet and tart dried cranberries, ideal for salads and baking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/469985445/photo/dry-cranberries.jpg?s=612x612&w=0&k=20&c=UczlT8Mydjkt9XDfJ2GWmpOGRm9-K_rZl4tDYTgceY0=",
+      "rating": {"rate": 4.6, "count": 200}
+  },
+  {
+      "id": 9,
+      "title": "Pine Nuts - Raw",
+      "price": 24.99,
+      "description": "Rich and creamy raw pine nuts, perfect for pesto and cooking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/147322204/photo/a-large-group-of-pine-nuts-in-a-pile.jpg?s=612x612&w=0&k=20&c=nyf6Vnz0BcagdwmV1xW01IltgXu6FuAzFf3ngDf046o=",
+      "rating": {"rate": 4.7, "count": 160}
+  },
+  {
+      "id": 10,
+      "title": "Dates - Medjool",
+      "price": 13.49,
+      "description": "Soft and sweet Medjool dates, a healthy snack option.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/492101274/photo/medjool-dates.jpg?s=612x612&w=0&k=20&c=qUcCXiPg44wHS0hETEBux4WHu_i6EMB-4ZV91PKWawk=",
+      "rating": {"rate": 4.9, "count": 215}
+  },
+  {
+      "id": 11,
+      "title": "Hazelnuts - Raw Organic",
+      "price": 18.99,
+      "description": "Crunchy and flavorful raw organic hazelnuts.",
+      "category": "dry fruits",
+      "image": "https://media.gettyimages.com/id/961962328/photo/hazelnuts-nuts-filberts-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=Z-ei9QUqDWPC4ON15mjspuDV5okZ5Qj-JKh8oOoEDic=",
+      "rating": {"rate": 4.5, "count": 140}
+  },
+  {
+      "id": 12,
+      "title": "Brazil Nuts - Whole Raw",
+      "price": 19.49,
+      "description": "Whole raw Brazil nuts, a great source of selenium.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/492101180/photo/brazil-nuts.jpg?s=612x612&w=0&k=20&c=qiWUjRl5Y1qmA_KfE8-F1DBVPLgu9zM2T5Sqbk90WFY=",
+      "rating": {"rate": 4.4, "count": 110}
+  },
+  {
+      "id": 13,
+      "title": "Macadamia Nuts - Raw",
+      "price": 29.99,
+      "description": "Rich and creamy raw macadamia nuts, great for snacking and baking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/936851582/photo/isolated-macadamia-nuts.jpg?s=612x612&w=0&k=20&c=vOCyiHwUIY5Olgnr0_gC0bgQUXPrij5n2Ij1rcSj_hY=",
+      "rating": {"rate": 4.8, "count": 95}
+  },
+  {
+      "id": 14,
+      "title": "Dried Mango - Sweetened",
+      "price": 10.99,
+      "description": "Sweet and chewy dried mango slices, a tropical treat.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/157584729/photo/large-pile-of-dried-up-mango.jpg?s=612x612&w=0&k=20&c=msB2EgI7NM8rGCduUYp2UFHHQFUF-Lqdw2OZqUsfMu4=",
+      "rating": {"rate": 4.6, "count": 180}
+  },
+  {
+      "id": 15,
+      "title": "Dried Coconut - Shredded",
+      "price": 6.49,
+      "description": "Shredded dried coconut, perfect for baking and cooking.",
+      "category": "dry fruits",
+      "image": "https://media.istockphoto.com/id/496240260/photo/coconut-flakes.jpg?s=612x612&w=0&k=20&c=5Oc7hvDS_ncLr4Kf6ordc0BMJ1KEKaz4Xufbjcq0YQ0=",
+      "rating": {"rate": 4.3, "count": 140}
+  },
+  {
+      "id": 16,
+      "title": "Dried Kiwi - Sweetened",
+      "price": 7.49,
+      "description": "Tangy and sweet dried kiwi slices, a unique snack.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/kiwi_dried.jpg",
+      "rating": {"rate": 4.2, "count": 160}
+  },
+  {
+      "id": 17,
+      "title": "Dried Blueberries - Unsweetened",
+      "price": 15.99,
+      "description": "Tart and juicy dried blueberries, perfect for baking and snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/blueberries_dried.jpg",
+      "rating": {"rate": 4.8, "count": 130}
+  },
+  {
+      "id": 18,
+      "title": "Prunes - Pitted Dried Plums",
+      "price": 8.99,
+      "description": "Pitted prunes, known for their rich flavor and digestive benefits.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/prunes.jpg",
+      "rating": {"rate": 4.7, "count": 145}
+  },
+  {
+      "id": 19,
+      "title": "Dried Papaya - Sweetened",
+      "price": 9.49,
+      "description": "Sweetened dried papaya chunks, a tropical delight.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/papaya_dried.jpg",
+      "rating": {"rate": 4.3, "count": 125}
+  },
+  {
+      "id": 20,
+      "title": "Dried Goji Berries - Organic",
+      "price": 18.49,
+      "description": "Organic dried goji berries, packed with antioxidants.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/goji_berries.jpg",
+      "rating": {"rate": 4.5, "count": 160}
+  },
+  {
+      "id": 21,
+      "title": "Dried Mulberries - White",
+      "price": 13.49,
+      "description": "Sweet and chewy white mulberries, perfect for snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/mulberries.jpg",
+      "rating": {"rate": 4.4, "count": 100}
+  },
+  {
+      "id": 22,
+      "title": "Dried Cherries - Sweetened",
+      "price": 14.99,
+      "description": "Sweet and tart dried cherries, a delicious snack and baking ingredient.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/cherries_dried.jpg",
+      "rating": {"rate": 4.6, "count": 140}
+  },
+  {
+      "id": 23,
+      "title": "Dried Apricots - Conventional",
+      "price": 8.99,
+      "description": "Conventional dried apricots, sweet and delicious.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/apricots_conventional.jpg",
+      "rating": {"rate": 4.2, "count": 120}
+  },
+  {
+      "id": 24,
+      "title": "Dried Peaches - Sweetened",
+      "price": 12.99,
+      "description": "Sweetened dried peach slices, a tasty treat.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/peaches_dried.jpg",
+      "rating": {"rate": 4.4, "count": 155}
+  },
+  {
+      "id": 25,
+      "title": "Dried Pears - Sweetened",
+      "price": 11.99,
+      "description": "Sweet dried pear slices, perfect for snacking or baking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/pears_dried.jpg",
+      "rating": {"rate": 4.3, "count": 135}
+  },
+  {
+      "id": 26,
+      "title": "Chestnuts - Roasted",
+      "price": 15.99,
+      "description": "Roasted chestnuts, soft and flavorful, perfect for snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/chestnuts_roasted.jpg",
+      "rating": {"rate": 4.6, "count": 145}
+  },
+  {
+      "id": 27,
+      "title": "Pecans - Raw",
+      "price": 18.49,
+      "description": "Raw pecans, great for baking, cooking, or snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/pecans_raw.jpg",
+      "rating": {"rate": 4.4, "count": 150}
+  },
+  {
+      "id": 28,
+      "title": "Dried Apples - Unsweetened",
+      "price": 6.99,
+      "description": "Unsweetened dried apple slices, a healthy snack.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/apples_dried.jpg",
+      "rating": {"rate": 4.2, "count": 165}
+  },
+  {
+      "id": 29,
+      "title": "Dried Black Mission Figs",
+      "price": 9.99,
+      "description": "Dried Black Mission figs with a rich flavor.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/black_mission_figs.jpg",
+      "rating": {"rate": 4.7, "count": 120}
+  },
+  {
+      "id": 30,
+      "title": "Dried Tangerine - Sweetened",
+      "price": 10.49,
+      "description": "Sweetened dried tangerine slices, a fruity treat.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/tangerine_dried.jpg",
+      "rating": {"rate": 4.5, "count": 130}
+  },
+  {
+      "id": 31,
+      "title": "Dried Lemon Peel - Zest",
+      "price": 5.49,
+      "description": "Dried lemon peel, perfect for adding flavor to dishes.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/lemon_peel_dried.jpg",
+      "rating": {"rate": 4.1, "count": 100}
+  },
+  {
+      "id": 32,
+      "title": "Dried Nashi Pears",
+      "price": 7.99,
+      "description": "Sweet and crunchy dried Nashi pears.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/nashi_pears_dried.jpg",
+      "rating": {"rate": 4.4, "count": 110}
+  },
+  {
+      "id": 33,
+      "title": "Dried Peppers - Sweet",
+      "price": 8.49,
+      "description": "Sweet dried peppers, perfect for cooking and salads.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/peppers_dried.jpg",
+      "rating": {"rate": 4.2, "count": 90}
+  },
+  {
+      "id": 34,
+      "title": "Dried Orange Slices",
+      "price": 8.99,
+      "description": "Dried orange slices, great for snacking and flavoring drinks.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/orange_slices_dried.jpg",
+      "rating": {"rate": 4.6, "count": 130}
+  },
+  {
+      "id": 35,
+      "title": "Dried Fig Bites - Chocolate Covered",
+      "price": 14.99,
+      "description": "Delicious dried fig bites covered in rich chocolate.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/fig_bites_chocolate.jpg",
+      "rating": {"rate": 4.8, "count": 95}
+  },
+  {
+      "id": 36,
+      "title": "Dried Starfruit - Sweetened",
+      "price": 10.99,
+      "description": "Sweetened dried starfruit slices, a unique tropical snack.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/starfruit_dried.jpg",
+      "rating": {"rate": 4.5, "count": 105}
+  },
+  {
+      "id": 37,
+      "title": "Dried Jackfruit - Sweetened",
+      "price": 9.49,
+      "description": "Sweetened dried jackfruit, chewy and flavorful.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/jackfruit_dried.jpg",
+      "rating": {"rate": 4.4, "count": 115}
+  },
+  {
+      "id": 38,
+      "title": "Dried Rhubarb - Sweetened",
+      "price": 6.99,
+      "description": "Sweetened dried rhubarb, great for baking and snacks.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/rhubarb_dried.jpg",
+      "rating": {"rate": 4.1, "count": 85}
+  },
+  {
+      "id": 39,
+      "title": "Dried Dragon Fruit - Sweetened",
+      "price": 14.49,
+      "description": "Sweetened dried dragon fruit slices, colorful and nutritious.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/dragonfruit_dried.jpg",
+      "rating": {"rate": 4.5, "count": 130}
+  },
+  {
+      "id": 40,
+      "title": "Dried Seaweed - Snack",
+      "price": 4.99,
+      "description": "Crispy dried seaweed, a unique and healthy snack.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/seaweed_dried.jpg",
+      "rating": {"rate": 4.3, "count": 115}
+  },
+  {
+      "id": 41,
+      "title": "Dried Lentils - Sprouting",
+      "price": 3.99,
+      "description": "Dried lentils for sprouting, nutritious and easy to grow.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/lentils_dried.jpg",
+      "rating": {"rate": 4.2, "count": 100}
+  },
+  {
+      "id": 42,
+      "title": "Dried Chickpeas - Snack",
+      "price": 5.49,
+      "description": "Crispy roasted chickpeas, a great snack alternative.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/chickpeas_dried.jpg",
+      "rating": {"rate": 4.4, "count": 140}
+  },
+  {
+      "id": 43,
+      "title": "Dried Snow Peas - Sweetened",
+      "price": 7.99,
+      "description": "Sweetened dried snow peas, a unique snack option.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/snowpeas_dried.jpg",
+      "rating": {"rate": 4.3, "count": 90}
+  },
+  {
+      "id": 44,
+      "title": "Dried Beets - Sweetened",
+      "price": 8.49,
+      "description": "Sweetened dried beet slices, healthy and flavorful.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/beets_dried.jpg",
+      "rating": {"rate": 4.5, "count": 80}
+  },
+  {
+      "id": 45,
+      "title": "Dried Acai Berries",
+      "price": 19.99,
+      "description": "Dried acai berries, packed with antioxidants.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/acai_berries_dried.jpg",
+      "rating": {"rate": 4.8, "count": 120}
+  },
+  {
+      "id": 46,
+      "title": "Dried Cranberries - Sweetened",
+      "price": 10.99,
+      "description": "Sweetened dried cranberries, perfect for baking and snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/cranberries_dried.jpg",
+      "rating": {"rate": 4.6, "count": 140}
+  },
+  {
+      "id": 47,
+      "title": "Dried Mulberries",
+      "price": 9.49,
+      "description": "Dried mulberries, sweet and chewy, great for snacking.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/mulberries_dried.jpg",
+      "rating": {"rate": 4.4, "count": 100}
+  },
+  {
+      "id": 48,
+      "title": "Dried Figs - Organic",
+      "price": 12.99,
+      "description": "Organic dried figs, rich in flavor and nutrients.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/figs_organic_dried.jpg",
+      "rating": {"rate": 4.7, "count": 130}
+  },
+  {
+      "id": 49,
+      "title": "Dried Soursop - Sweetened",
+      "price": 13.49,
+      "description": "Sweetened dried soursop, unique and delicious.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/soursop_dried.jpg",
+      "rating": {"rate": 4.5, "count": 115}
+  },
+  {
+      "id": 50,
+      "title": "Dried Apples - Sweetened",
+      "price": 9.99,
+      "description": "Sweetened dried apple slices, a tasty treat.",
+      "category": "dry fruits",
+      "image": "https://example.com/img/apples_sweetened_dried.jpg",
+      "rating": {"rate": 4.6, "count": 120}
+  }
+]
